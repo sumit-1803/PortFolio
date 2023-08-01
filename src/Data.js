@@ -1,0 +1,43 @@
+export const products = [ 
+    {
+        id:1,
+        img:"src/img/one.jpg",
+        link:"https://github.com/sumit-1803/CV-Builder",
+    },
+    {
+        id:2,
+        img:"src/img/two.jpg",
+        link:"https://github.com/sumit-1803/Philosophy",
+    },
+    {
+        id:3,
+        img:"src/img/nine.jpg",
+        link:"https://github.com/sumit-1803/Game.github.io",
+    },
+    {
+        id:4,
+        img:"src/img/four.jpg",
+        link:"https://github.com/sumit-1803/Restraunt-Page",
+    },
+    {
+        id:5,
+        img:"src/img/five.jpg",
+        link:"https://github.com/sumit-1803/Tic-Tac-Toe",
+    },
+    {
+        id:6,
+        img:"src/img/six.jpg",
+        link:"https://github.com/sumit-1803/Library",
+    },
+    {
+        id:7,
+        img:"src/img/seven.jpg",
+        link:"https://github.com/sumit-1803/Calcu.github.io",
+    },
+    {
+        id:8,
+        img:"src/img/ten.jpg",
+        link:"https://github.com/sumit-1803/Parallax-Website",
+    },
+    
+]
