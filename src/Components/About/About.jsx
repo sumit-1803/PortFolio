@@ -1,11 +1,13 @@
 import "./About.css";
+import img from "../../img/bandw.jpg";
+import img2 from "../../img/award.jpg";
 const About = () => {
   return (
     <div className="a">
       <div className="a-left">
         <div className="a-card-bg">.....</div>
         <div className="a-card">
-          <img src="src\img\bandw.jpg" alt="" className="a-img" />
+          <img src={img} alt="" className="a-img" />
         </div>
       </div>
 
@@ -22,7 +24,7 @@ const About = () => {
           explicabo amet?
         </p>
         <div className="a-award">
-          <img src="src\img\award.jpg" alt="" className="a-award-img" />
+          <img src={img2} alt="" className="a-award-img" />
           <div className="a-award-texts">
             <h4 className="a-award-title">International Design</h4>
             <p className="a-award-desc">
